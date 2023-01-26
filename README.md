@@ -35,5 +35,8 @@
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="telegram" width="38">](https://t.me/Algorithm1001)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngangadanche@gmail.com)
-
+<a href="https://www.linkedin.com/in/danchengash/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
+ </a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Genialngash)](https://github.com/ryo-ma/github-profile-trophy?row=2&column=3)
+
