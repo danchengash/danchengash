@@ -38,5 +38,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danchengash/)   
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=danchengash)](https://github.com/ryo-ma/github-profile-trophy?row=2&column=3)
-[![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danchengash)]
+
 
