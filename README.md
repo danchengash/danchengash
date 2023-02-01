@@ -21,7 +21,7 @@
   
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-[![Danche's GitHub stats](https://github-readme-stats.vercel.app/api?username=Genialngash&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Danche's GitHub stats](https://github-readme-stats.vercel.app/api?username=danchengash&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on: FLUTTER && GolANG projects
 - 👯 I’m looking to collaborate on: GoLANG/FLUTTER Projects
@@ -38,4 +38,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danchengash/)   
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=danchengash)](https://github.com/ryo-ma/github-profile-trophy?row=2&column=3)
+[![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danchengash)]
 
