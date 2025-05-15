@@ -1,5 +1,7 @@
 
 <h3>DANCHE<h3/>
+  _**Science is knowing knowledge, knowledge is knowing yourself.
+If you don't know yourself, why study?**_ Confucius
   
   ### Programming Languages and frameworks🌐
   [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
