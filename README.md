@@ -29,7 +29,7 @@ If you don't know yourself, why study? — Confucius*
 
 - 🔭 I’m currently working on: FLUTTER && GolANG projects
 - 👯 I’m looking to collaborate on: GoLANG/FLUTTER Projects
-- 🌱 I’m currently learning:  AWS,LASERS.
+- 🌱 I’m currently learning:  LASERS.
 - 😄 Pronouns: Ngash E.G.H.
 - ⚡ <--Still thinking of a way to summarize all the physics in single formula printable on a mug.-->
 
